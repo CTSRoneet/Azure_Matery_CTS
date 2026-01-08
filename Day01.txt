@@ -1,0 +1,15 @@
+Introduction to DevOps :
+Day 1 Goals and Learning Plan
+
+Set up Your Workstation (Tools & Accounts)
+Linux and Command-Line Basics
+Version Control: Git Fundamentals
+Branching Strategies and Workflows
+Basic CI/CD Concepts
+Intro to Containers: Docker Basics
+Cloud Fundamentals: Azure Overview
+Infrastructure as Code: Intro to Terraform/Bicep
+Monitoring & Logging Overview
+Security Basics and Best Practices
+Hands-on Lab: Create a Repo and Simple CI Pipeline
+Next Steps and Learning Resources
