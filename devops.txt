@@ -1,0 +1,10 @@
+DevOps essentials :
+
+Tooling examples
+- CI/CD: Azure DevOps, GitHub Actions, Jenkins, GitLab CI
+- IaC: Terraform, Azure Resource Manager, Pulumi
+- Containerization and orchestration: Docker, Kubernetes, Azure Kubernetes Service (AKS)
+- Monitoring and logging: Prometheus, Grafana, Azure Monitor, ELK stack
+- Security: Snyk, Trivy, OWASP dependency checkers
+
+This document is a high-level reference; adapt practices, tools, and workflows to fit organizational needs and constraints.
